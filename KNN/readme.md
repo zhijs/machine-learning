@@ -3,9 +3,27 @@
 
 
 # 案例1
-对约会对象做分类
+
+[对约会对象做聚类](./KNN_dating.py)
+
 1. 不喜欢的人
 2. 魅力一般的人
 3. 极具魅力的人
+
+
+# 案例2
+手写体数字识别
+## 数据准备
+```shell
+# 下载数据
+wget http://labfile.oss.aliyuncs.com/courses/777/digits.zip
+
+# 解压数据
+unzip digits.zip
+```
+
+
+
+
 
 
