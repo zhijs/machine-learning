@@ -1,2 +1,3 @@
 ./KNN/data/digits.zip
-./KNN/data/digits/**
+/KNN/data/digits/testDigits
+/KNN/data/digits/trainingDigits
